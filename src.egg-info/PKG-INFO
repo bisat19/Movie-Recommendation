@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/bisat19/Movie Recomendation System - ML
+Author: bisat19
+Author-email: abiambis19@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Requires-Dist: numpy
+
+Movie Recomendation System - ML
