@@ -1,0 +1,6 @@
+streamlit
+numpy
+gzip
+
+#local packages
+-e .
